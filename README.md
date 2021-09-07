@@ -1,5 +1,5 @@
-# sad-2019-2-sad-2019-2-myplanner : My Planner
-sad-2019-2-sad-2019-2-myplanner created by GitHub Classroom
+Software Architecture Development: My Planner: HTML, CSS, Javascript, Vue, NodeJS, ExpressJS, MongoDB, Heroku
+
 ```
 Lets you set your goals depending on your activities planned for the period.
 MEVN App.
